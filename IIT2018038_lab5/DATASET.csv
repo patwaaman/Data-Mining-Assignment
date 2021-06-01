@@ -1,0 +1,13 @@
+Example,ALT,Bar,Fri,Hun,Pat,Price,Rain,Res,Type,Est,Target Wait
+X1,T,F,F,T,Some,$$$,F,T,French,0 to 10,T
+X2,T,F,F,T,Full,$,F,F,Thai,30 to 60,F
+X3,F,T,F,F,Some,$,F,F,Burger,0 to 10,T
+X4,T,F,T,T,Full,$,F,F,Thai,10 to  30,T
+X5,T,F,T,F,Full,$$$,F,T,French,>60,F
+X6,F,T,F,T,Some,$$,T,T,Italian,0 to 10,T
+X7,F,T,F,F,None,$,T,F,Burger,0 to 10,F
+X8,F,F,F,T,Some,$$,T,T,Thai,0 to 10,T
+X9,F,T,T,F,Full,$,T,F,Burger,>60,F
+X10,T,T,T,T,Full,$$$,F,T,Italian,10 to 30,F
+X11,F,F,F,F,None,$,F,F,Thai,0 to 10,F
+X12,T,T,T,T,Full,$,F,F,Burger,30 to 60 ,T
